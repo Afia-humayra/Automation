@@ -1,4 +1,7 @@
 # Automation
+
+![WhatsApp Image 2024-06-14 at 4 49 02 PM](https://github.com/Afia-humayra/Automation/assets/87032492/f6efd78a-bf76-48a8-888e-b4aa2c3aabe2)
+
 **Overview**
 
 The Home Automation Project with Arduino aims to enhance your living environment by integrating several automated systems to increase safety, convenience, and efficiency in your home. The primary features include automatic lighting based on ambient light levels, a fire and gas sensing monitoring system, and a rain detection mechanism for automatic window control.
